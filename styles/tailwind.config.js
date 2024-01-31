@@ -21,7 +21,7 @@ module.exports = {
             brand: {
                 white: '#FFFFFF',
                 'light-grey': '#9A9A9A',
-                grey: '#605959',
+                grey: colors.stone['500'],
                 pink: '#E39E9E',
                 brown: '#907979',
             },

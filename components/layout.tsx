@@ -1,10 +1,10 @@
 import { ReactNode } from 'react';
-import { Glory, Roboto } from '@next/font/google';
+import { Roboto } from '@next/font/google';
 import Footer from './footer';
 
 
 
-const fontTitle = Glory({
+const fontTitle = Roboto({
     weight: ['700'],
     subsets: ['latin'],
     display: 'swap',
