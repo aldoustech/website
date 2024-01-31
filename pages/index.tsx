@@ -19,11 +19,11 @@ export default function Home() {
                     </h1>
                 </header>
                 <section className="max-w-prose mx-auto text-center">
-                    <h2 className="mt-20 mb-4 text-5xl font-bold">
+                    <h2 className="mt-20 mb-4 text-5xl font-bold text-brand-brown">
                         Website Coming Soon
                     </h2>
                     <h3 className="font-normal">
-                        We are working hard to create high-quality software for ecommerce businesses.
+                        We are working hard to create high-quality software for ecommerce businesses. We will launch a proper website soon.
                     </h3>
                 </section>
             </section>

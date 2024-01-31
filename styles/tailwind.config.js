@@ -23,7 +23,8 @@ module.exports = {
                 'light-grey': '#9A9A9A',
                 grey: colors.stone['500'],
                 pink: '#E39E9E',
-                brown: '#907979',
+                brown: colors.amber['600'],
+                green: colors.teal['800'],
             },
         },
         container: {
